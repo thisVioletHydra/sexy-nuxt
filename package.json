@@ -1,0 +1,14 @@
+{
+  "name": "sexy-nuxt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thisVioletHydra/sexy-nuxt.git",
+  "author": "VioletHydra <mrG0bliN.tm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^2.13.3"
+  },
+  "scripts": {
+    "dev": "nuxt"
+  }
+}
